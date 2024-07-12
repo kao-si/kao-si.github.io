@@ -1,2 +1,12 @@
 title: SI, Kao
 theme: minima
+description: This is the description
+
+# Navigation links
+nav_links:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Contact"
+    url: "/contact/"

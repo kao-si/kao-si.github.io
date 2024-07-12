@@ -1,4 +1,8 @@
-# Welcome
+---
+layout: default
+title: home page
+---
+# h1 here
 
 ## h2 here
 
