@@ -1,5 +1,4 @@
-## h2 here
-
-### h3 here
-
-Text text text
+---
+layout: home
+title: Home
+---
