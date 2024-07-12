@@ -4,6 +4,7 @@ description: This is the description
 # pages in the navigation area
 header_pages:
   - about.md
+  - contact.md
 
 # author metadata
 author:
