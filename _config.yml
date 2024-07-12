@@ -1,12 +1,13 @@
-title: SI, Kao
 theme: minima
 description: This is the description
 
-# Navigation links
-nav_links:
-  - title: "Home"
-    url: "/"
-  - title: "About"
-    url: "/about/"
-  - title: "Contact"
-    url: "/contact/"
+# pages in the navigation area
+header_pages:
+  - about.md
+
+# author metadata
+author:
+  name: Kao SI
+  email: kaosi@um.edu.mo
+
+google_analytics: UA-NNNNNNNN-N

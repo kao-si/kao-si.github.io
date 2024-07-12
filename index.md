@@ -1,4 +1,6 @@
-# h1 here
+---
+layout: base
+---
 
 ## h2 here
 
