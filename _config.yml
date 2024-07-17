@@ -2,6 +2,7 @@ title: SI Kao
 author:
   name: SI, Kao
   email: kaosi@um.edu.mo
+permalink: /:categories/:name/
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -29,7 +30,7 @@ plugins:
 header_pages:
   - index.md
   - publications.md
-  - books.md
+  - reading.md
   - personal.md
 
 # Set to `true` to show excerpts on the homepage.
