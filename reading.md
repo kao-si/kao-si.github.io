@@ -57,6 +57,8 @@ permalink: /reading/
 
 - The Book of Why: The New Science of Cause and Effect (Judea Pearl, Dana Mackenzie)
 
+- Data Visualization (Kieran Healy)
+
 ## History
 
 - 毛澤東：鮮為人知的故事 (Jon Halliday, Jung Chang)
@@ -101,13 +103,15 @@ permalink: /reading/
 
 - 晚年周恩來（高文謙）
 
-- 十二個春秋，1975 - 1987: 鄧力群自述（鄧力群）
+- 十二個春秋，1975-1987: 鄧力群自述（鄧力群）
 
 - 廬山會議實錄（李銳）
 
 - 蔣公與我（汪士淳，周宏濤）
 
 - 晚清七十年（唐德剛）
+
+- 最後的“天朝”：毛澤東，金日成與中朝關係（1945-1976） （沈志華）
 
 ## Fiction
 
