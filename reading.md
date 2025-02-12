@@ -59,6 +59,8 @@ permalink: /reading/
 
 - Data Visualization (Kieran Healy)
 
+- Counterfactuals and Causal Inference (Stephen Morgan, Christopher Winship)
+
 ## History
 
 - 毛澤東：鮮為人知的故事 (Jon Halliday, Jung Chang)
@@ -112,6 +114,8 @@ permalink: /reading/
 - 晚清七十年（唐德剛）
 
 - 最後的“天朝”：毛澤東，金日成與中朝關係（1945-1976） （沈志華）
+
+- 王力反思錄 （王力）
 
 ## Fiction
 
