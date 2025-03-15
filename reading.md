@@ -117,6 +117,8 @@ permalink: /reading/
 
 - 王力反思錄 （王力）
 
+- 站在歷史的風陵渡口 （高華）
+
 ## Fiction
 
 - 紅樓夢（曹雪芹，脂硯齋）
@@ -164,3 +166,5 @@ permalink: /reading/
 - Everybody Lies (Seth Stephens-Davidowitz)
 
 - The Hype Machine (Sinan Aral)
+
+- Mixed Signals (Uri Gneezy)
