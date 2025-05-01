@@ -119,6 +119,8 @@ permalink: /reading/
 
 - 站在歷史的風陵渡口 （高華）
 
+- Shanghai 1937: Stalingrad on the Yangtze (Peter Harmsen)
+
 ## Fiction
 
 - 紅樓夢（曹雪芹，脂硯齋）
