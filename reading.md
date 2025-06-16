@@ -170,3 +170,7 @@ permalink: /reading/
 - The Hype Machine (Sinan Aral)
 
 - Mixed Signals (Uri Gneezy)
+
+- The Why Axis (Uri Gneezy, John List)
+
+- Influence (Robert Cialdini)
