@@ -121,6 +121,10 @@ permalink: /reading/
 
 - Shanghai 1937: Stalingrad on the Yangtze (Peter Harmsen)
 
+- 流亡中的自在 （達賴喇嘛）
+
+- 文化大革命：史實與研究 （劉青峰）
+
 ## Fiction
 
 - 紅樓夢（曹雪芹，脂硯齋）
