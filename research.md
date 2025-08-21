@@ -24,8 +24,9 @@ permalink: /research/
 ## Selected Work in Progress
 
 1. Heterogeneous Effects of Attending an Elite Class on Students' Academic Performance: Combining Evidence from a Regression Discontinuity Design and a Natural Experiment
-2. Lack of Autonomy and Spontaneous Recovery of Hedonic Responses
+2. Lack of Autonomy and Spontaneous Recovery of Hedonic Response
 3. Price Discount and Consumer Sensitivity to Potential Service Failures
 4. Recommendations in Fundraising Appeal
-5. When Resource Scarcity Promotes Prosocial Behaviors
-6. The Hunger Elevating Effect in Beauty Perception: Scope and Generalization
+5. Recruiter Preference for Candidate Resume Type: Gender Difference
+6. When Resource Scarcity Promotes Prosocial Behaviors
+7. The Hunger Elevating Effect in Beauty Perception: Scope and Generalization
