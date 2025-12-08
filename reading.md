@@ -129,6 +129,8 @@ permalink: /reading/
 
 - 康生年譜：一個中國共產黨人的一生 （余汝信）
 
+- War in the Far East: Storm Clouds over the Pacific 1931 - 1941 (Peter Harmsen)
+
 ## Fiction
 
 - 紅樓夢（曹雪芹，脂硯齋）
