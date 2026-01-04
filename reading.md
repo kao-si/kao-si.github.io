@@ -131,6 +131,8 @@ permalink: /reading/
 
 - War in the Far East: Storm Clouds over the Pacific 1931 - 1941 (Peter Harmsen)
 
+- 袁氏當國 （唐德剛）
+
 ## Fiction
 
 - 紅樓夢（曹雪芹，脂硯齋）
