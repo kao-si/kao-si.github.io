@@ -135,6 +135,8 @@ permalink: /reading/
 
 - War in the Far East: Japan Runs Wild 1942 - 1943 (Peter Harmsen)
 
+- 段祺瑞政權 （唐德剛）
+
 ## Fiction
 
 - 紅樓夢（曹雪芹，脂硯齋）
