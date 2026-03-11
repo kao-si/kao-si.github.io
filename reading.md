@@ -137,6 +137,10 @@ permalink: /reading/
 
 - 段祺瑞政權 （唐德剛）
 
+- 從甲午到抗戰 （唐德剛）
+
+- War in the Far East: Asian Armageddon 1944 - 1945 (Peter Harmsen)
+
 ## Fiction
 
 - 紅樓夢（曹雪芹，脂硯齋）
@@ -190,3 +194,7 @@ permalink: /reading/
 - The Why Axis (Uri Gneezy, John List)
 
 - Influence (Robert Cialdini)
+
+- Negotiating Rationally (Max Bazerman, Margaret Neale)
+
+- Negotiation Genius (Deepak Malhotra, Max Bazerman)
