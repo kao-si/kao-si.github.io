@@ -141,6 +141,8 @@ permalink: /reading/
 
 - War in the Far East: Asian Armageddon 1944 - 1945 (Peter Harmsen)
 
+- 蔣介石評傳 （王榮祖，李敖）
+
 ## Fiction
 
 - 紅樓夢（曹雪芹，脂硯齋）
