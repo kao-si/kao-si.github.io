@@ -200,3 +200,5 @@ permalink: /reading/
 - Negotiating Rationally (Max Bazerman, Margaret Neale)
 
 - Negotiation Genius (Deepak Malhotra, Max Bazerman)
+
+- 3D Negotiation (David Lax, James Sebenius)
