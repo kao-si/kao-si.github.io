@@ -145,6 +145,8 @@ permalink: /reading/
 
 - 文革前的鄧小平：毛澤東的「副帥」（1956-1966） （鍾延麟）
 
+- 太平天國 (Jonathan Spence)
+
 ## Fiction
 
 - 紅樓夢（曹雪芹，脂硯齋）
@@ -204,3 +206,5 @@ permalink: /reading/
 - Negotiation Genius (Deepak Malhotra, Max Bazerman)
 
 - 3D Negotiation (David Lax, James Sebenius)
+
+- The Little Book of Common Sense Investing (John Bogle)
