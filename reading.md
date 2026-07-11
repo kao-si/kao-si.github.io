@@ -147,6 +147,8 @@ permalink: /reading/
 
 - 太平天國 (Jonathan Spence)
 
+- 追尋現代中國 1600 - 1949 (Jonathan Spence)
+
 ## Fiction
 
 - 紅樓夢（曹雪芹，脂硯齋）
