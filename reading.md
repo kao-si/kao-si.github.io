@@ -149,6 +149,8 @@ permalink: /reading/
 
 - 追尋現代中國 1600 - 1949 (Jonathan Spence)
 
+- 義和團運動的起源 (Joseph Esherick)
+
 ## Fiction
 
 - 紅樓夢（曹雪芹，脂硯齋）
