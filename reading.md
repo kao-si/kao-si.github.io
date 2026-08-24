@@ -151,6 +151,8 @@ permalink: /reading/
 
 - 義和團運動的起源 (Joseph Esherick)
 
+- 歷史三調：作為事件，經歷和神話的義和團 (Paul Cohen)
+
 ## Fiction
 
 - 紅樓夢（曹雪芹，脂硯齋）
